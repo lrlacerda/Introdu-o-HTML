@@ -1,0 +1,21 @@
+.cabecalho {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    padding: 30px;
+}
+
+.cabecalho a {
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    border: white solid;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.menu {
+    margin: 0 10px;
+}
